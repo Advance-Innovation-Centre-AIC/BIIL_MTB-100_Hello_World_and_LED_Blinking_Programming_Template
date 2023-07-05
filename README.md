@@ -2,6 +2,17 @@
 
 This lab will guide you to started with using the PSOC Infineon board  with the Eclipse IDE for ModusToolbox.
 
+## Let start
+- Open Eclipes IDE ModusToolbox          
+![image](https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-100_Hello_World_and_LED_Blinking_Programming_Template/assets/88732241/276b5ee3-7752-488c-baa7-3b55f6615b27)                 
+
+- Select board
+![image](https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-100_Hello_World_and_LED_Blinking_Programming_Template/assets/88732241/df637b74-1bee-4c0c-9bdc-4b70d7f0cee8)
+- Select Project
+  ![image](https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-100_Hello_World_and_LED_Blinking_Programming_Template/assets/88732241/3df6fbb2-eea7-4f1b-b09b-36d88f10ad2f)
+
+
+
 ## 🔥 Requirements
 
 - [ModusToolbox&trade; software](https://www.infineon.com/modustoolbox) v3.0 or later (tested with v3.0)
