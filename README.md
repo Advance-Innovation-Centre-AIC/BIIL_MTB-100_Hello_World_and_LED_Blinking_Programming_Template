@@ -71,7 +71,7 @@ This lab will guide you through the process of using the PSOC Infineon board wit
 ## Related resources
 Resources  | Links
 -----------|----------------------------------
-ModusToolbox™ Software | [link](https://www.dropbox.com/sh/waj898o4o8eccx0/AAB3hBBaIQo2OvJ5-fubGJIha/training-modustoolbox-level1-getting-started-master/Manual/Ch2-Tools.pdf?dl=0)
+ModusToolbox™ Software Training | [link](https://www.dropbox.com/sh/waj898o4o8eccx0/AAB3hBBaIQo2OvJ5-fubGJIha/training-modustoolbox-level1-getting-started-master/Manual/Ch2-Tools.pdf?dl=0)
 
 
 
