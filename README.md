@@ -1,4 +1,4 @@
-# Lab100-Hello-World-and-LED-Blinking-Programming
+# BIIL_MTB-100_Hello_World_and_LED_Blinking_Programming_Template
 
 This lab will guide you through the process of using the PSOC Infineon board with the Eclipse IDE for ModusToolbox. You will learn how to create, build, and launch application programs. By the end of this lab, you will be able to independently perform these tasks.
 ## 🔥 Requirements
@@ -71,9 +71,7 @@ This lab will guide you through the process of using the PSOC Infineon board wit
 ## Related resources
 Resources  | Links
 -----------|----------------------------------
-BDH Shell for LED Blinking and Capsense Slider  | [Github](https://www.infineon.com/AN228571) – Getting started with PSoC&trade; 6 MCU on ModusToolbox&trade; software 
-FREERTOS  | [Github](https://www.infineon.com/AN228571) – FREERTOS 
-SensiML  | [Github](https://www.infineon.com/AN228571) – SensiML
+ModusToolbox™ Software | [link](https://www.dropbox.com/sh/waj898o4o8eccx0/AAB3hBBaIQo2OvJ5-fubGJIha/training-modustoolbox-level1-getting-started-master/Manual/Ch2-Tools.pdf?dl=0)
 
 
 
@@ -88,9 +86,7 @@ Document title: *BILL_MTB-100* – *Hello World with LED Blinking Template*
 
  Version | Description of change
  ------- | ---------------------
- 2.0.0   | Major update to support ModusToolbox&trade; software v2.2, added support for new kits<br /> This version is not backward compatible with ModusToolbox&trade; software v2.1
- 1.1.0   | Updated to support ModusToolbox&trade; software v2.1, added new kits
- 1.0.0   | New code example
+ 1.0.0   | Lab100: Creating, building, and launching the application program.
 
 
 ## Authors:
