@@ -1,7 +1,6 @@
 # Lab100-Hello-World-and-LED-Blinking-Programming
 
-This lab will guide you to started with using the PSOC Infineon board  with the Eclipse IDE for ModusToolbox.
-
+This lab will guide you through the process of using the PSOC Infineon board with the Eclipse IDE for ModusToolbox. You will learn how to create, build, and launch application programs. By the end of this lab, you will be able to independently perform these tasks.
 ## 🔥 Requirements
 | Resources                                  | Links                                                                                                  |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------|
