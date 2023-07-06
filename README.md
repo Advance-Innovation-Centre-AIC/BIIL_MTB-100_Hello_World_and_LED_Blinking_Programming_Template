@@ -11,7 +11,7 @@ This lab will guide you through the process of using the PSOC Infineon board wit
 
 
 ## 🚩 Let start
-- 👉  Open Eclipes IDE ModusToolbox               
+- 👉  Open Eclipse IDE ModusToolbox               
 ![image](https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-100_Hello_World_and_LED_Blinking_Programming_Template/assets/88732241/276b5ee3-7752-488c-baa7-3b55f6615b27)                 
 
 - 👉  Select board    
